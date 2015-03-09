@@ -1,0 +1,23 @@
+.DS_Store
+
+### Maven ###
+overlays/
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+### NODEJS ###
+node_modules/
+
+### Mobile ###
+*.xcuserdatad
+
+### Launchpad database ###
+#launchpad-data/orchestrator
+#launchpad-data/cs
+#launchpad-data/portal
+
+*.lock.db
