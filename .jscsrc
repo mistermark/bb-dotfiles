@@ -7,7 +7,6 @@
     "disallowQuotedKeysInObjects": "allButReserved",
     "disallowSpaceAfterKeywords": [
         "if",
-        "else",
         "for",
         "while",
         "do",
