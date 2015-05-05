@@ -1,5 +1,8 @@
 .DS_Store
 
+### Backbase CXP ###
+*.log
+
 ### Maven ###
 overlays/
 target/
@@ -21,3 +24,8 @@ node_modules/
 #launchpad-data/portal
 
 *.lock.db
+
+### IDE ###
+*.idea
+*.iml
+*.sublime-project
